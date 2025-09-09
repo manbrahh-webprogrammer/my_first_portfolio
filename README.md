@@ -1,3 +1,4 @@
 ﻿# my_first_portfolio
 
-<img width="1124" height="635" alt="Screenshot 2025-09-09 132539" src="https://github.com/user-attachments/assets/8e8cf74d-aa8c-4532-ae20-8c611796e13e" />
+
+<img width="1888" height="848" alt="Screenshot 2025-09-09 132844" src="https://github.com/user-attachments/assets/77204e9a-c9f6-47f5-be77-7d21843fbb37" />
